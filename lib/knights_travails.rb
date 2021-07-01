@@ -8,11 +8,8 @@ class ChessBoard
   end
 end
 
-class Knight
-
-  def knight_moves(start_sqr, end_sqr)
-    moves_tree = MovesTree.new(Square.new(start_sqr), end_sqr)
-
-    moves_tree
-  end
+def knight_moves(start_sqr, end_sqr)
+  moves_tree = MovesTree.new(Square.new(start_sqr), end_sqr)
 end
+
+knight_moves([3, 3], [4, 3])
