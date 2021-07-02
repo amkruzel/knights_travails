@@ -1,3 +1,4 @@
+# necessary constant and method
 module Pieces
   KNIGHT_MOVES = [
     [2, 1], [2, -1], [-2, 1], [-2, -1],
