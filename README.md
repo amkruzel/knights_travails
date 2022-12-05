@@ -2,7 +2,7 @@
 This program will find the shortest path for a knight ♞ to take to get from one square to another on a chess board. It is meant as practice with algorithms and data structures.
 
 ## Usage
-You can see the program run on replit.com [here](https://replit.com/@amkruzel/knights_travails). There is no user input, but you can edit the 'knights_travails.rb' file to try it out.
+You can see the program run on replit.com [here](https://replit.com/@amkruzel/knightstravails). There is no user input, but you can edit the 'knights_travails.rb' file to try it out.
 
 - add `knight_moves([x1, y1], [x2, y2])` to the end of the file
 - `[x1, y1]` are the starting coordinates, `[x2, y2]` are ending coordinates
